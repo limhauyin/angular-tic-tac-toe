@@ -1,0 +1,17 @@
+main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px;
+}
+
+app-square { 
+    border : 1px gray solid; 
+    height: 200px;
+}
+
+h2 {
+    color : rgb(179, 37, 37)
+}
+h1 {
+    color : rgb(230, 230, 230)
+}
